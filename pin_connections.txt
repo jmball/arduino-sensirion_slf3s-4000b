@@ -1,0 +1,4 @@
+adruino SDA connects to slf3s-4000b pin 2
+arduino VDD connects to slf3s-4000b pin 3
+arduino GND connects to slf3s-4000b pin 4
+arduino SCL connects to slf3s-4000b pin 5
